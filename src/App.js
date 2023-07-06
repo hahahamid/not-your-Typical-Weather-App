@@ -11,7 +11,7 @@ function App() {
       <div className="footer-info">
         Get this project on
         {" "}
-        <a href="https://www.htmlhints.com/article/how-to-create-toggle-switch/93">
+        <a href="https://github.com/hahahamid/not-your-Typical-Weather-App">
         Github
         </a>{" "}
         | Hamid's work of Art {" "}
