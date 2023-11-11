@@ -12,7 +12,7 @@ function App() {
         Get this project on
         {" "}
         <a href="https://github.com/hahahamid/not-your-Typical-Weather-App">
-        Github
+        <u> Github </u>
         </a>{" "}
         | Hamid's work of Art {" "}
       </div>

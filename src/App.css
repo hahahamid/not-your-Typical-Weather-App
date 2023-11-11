@@ -692,6 +692,11 @@ button{
   color: floralwhite;
   font-weight: bold;
 }
+
+.footer-info u {
+  text-underline-offset: 2;
+}
+
 .hh_button {
   display: inline-block;
   text-decoration: none;
